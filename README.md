@@ -1,6 +1,20 @@
 Warhammer 40,000
 ================
 
+This fork of the main repository is for experimentation with the existing code as well as integrating local campaign warlords and special units for our local 40k campaign. Package file link will be updated with the Dropbox link of the proper package source when I get everything functional. The idea is that we can still use BattleScribe to build our campaign lists while also having access to our special units that otherwise wouldn't be supported.
+Also it's an exercise for me in code.
+
+
+
+
+
+
+
+
+----
+
+
+
 [![Join the chat at https://gitter.im/BSData/wh40k](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/BSData/wh40k?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 __Notice__: _However we don't support the 6th Edition, all the files in their last revisions for 6th are available [here](https://github.com/BSData/wh40k/releases/tag/v3.1.4). Downloading .bsr file (green button) and importing it in BattleScribe_ __won't__ _mess with 7th ed files._
